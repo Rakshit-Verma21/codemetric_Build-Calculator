@@ -1,15 +1,15 @@
 
 
 
-Build Calculator
 
-Create a command-line calculator to
-perform basic arithmetic operations.
+
 
 Task 1
+Build Calculator
 
 Description:
-
+Create a command-line calculator to
+perform basic arithmetic operations.
 Requirements:
 
 Use Python functions for addition,
